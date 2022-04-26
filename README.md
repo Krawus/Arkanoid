@@ -1,8 +1,10 @@
 # Arkanoid
-C++ OldSchool game that I made on my second semester of studying.
+C++ OldSchool game that I made on my second semester of studying. 
+
+If you want to play download the /Arkanoid_game folder and hit arkanoid.exe.
 
 Made in QT Creator. Graphic interface based on SFML (Simple and Fast Multimedia Library)
-Rules are simple: after every hit ball goes faster. To win you need to destroy all the blocks. Sometimes after destructing the blocks you can drop power-up which makes your racket wider
+Rules are simple: after every hit ball goes faster. To win you need to destroy all the blocks. Sometimes after destructing the blocks you can drop power-up which makes your racket wider.
 
 After completing the semester I kinda made fun of this project by adding funny music, beach theme, sound effects and power-ups.
 
