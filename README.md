@@ -19,7 +19,6 @@ Dropping power-up:
 </p>
 
 Collecting power-up
-Dropping power-up:
 <p align="center">
   <img width="534" height="534" src="./readme_files/screen2.png">
 </p>
