@@ -7,6 +7,7 @@ Made in QT Creator. Graphic interface based on SFML (Simple and Fast Multimedia 
 Rules are simple: after every hit ball goes faster. To win you need to destroy all the blocks. Sometimes after destructing the blocks you can drop power-up which makes your racket wider.
 
 After completing the semester I kinda made fun of this project by adding funny music, beach theme, sound effects and power-ups.
+(update: unfortunately music theme file is too big to uploat it on github)
 
 # Some gameplay screens:
 
